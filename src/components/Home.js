@@ -1,10 +1,9 @@
-
-
 function Home() {
   return (
-    <main>
-      <h1>Home!</h1>
-    </main>
+    <div>
+      <h2>Home</h2>
+      <p>Welcome! You’re logged in.</p>
+    </div>
   );
 }
 

@@ -1,12 +1,9 @@
-
-
 function About() {
   return (
-    <main>
-      <h1>
-        This is my about component!
-      </h1>
-    </main>
+    <div>
+      <h2>About</h2>
+      <p>This is the about page of our navigation demo.</p>
+    </div>
   );
 }
 
